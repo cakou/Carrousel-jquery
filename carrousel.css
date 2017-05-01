@@ -1,0 +1,12 @@
+.cycle-slideshow {
+    display: block;
+    position: relative;
+    width: 100%;
+    max-width: 720px;
+    margin: 20px auto;
+}
+
+.center {
+    width : 50%; 
+    margin : auto; 
+}
